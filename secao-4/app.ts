@@ -1,4 +1,4 @@
-let variavel = (nome: string, idade: number) =>{
+const variavel = (nome: string, idade: number) =>{
     console.log(nome + " " + idade)
 }
 
